@@ -1,0 +1,14 @@
+node_modules/
+**/node_modules/
+.nyc_output/
+coverage/
+.vite/
+dist/
+build/
+.DS_Store
+Thumbs.db
+cypress/screenshots/
+cypress/videos/
+cypress/downloads/
+.env
+.env.*
